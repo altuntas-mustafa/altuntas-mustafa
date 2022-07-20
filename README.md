@@ -32,8 +32,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mustafa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-altuntas/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafa_altuntas35@hotmail.com)
-
-### :hammer_and_wrench: Languages and Tools :
+- 
+<div id="aboutme" align="center">
+  
+### :hammer_and_wrench: Languages and Tools 
+  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"  title="django" alt="django" width="40" height="40"/>&nbsp;
@@ -48,9 +51,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
 </div>
 
-<div id="aboutme" align="center">
+
   
-### :fire: My Stats :
+### :fire: My Stats 
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=altuntas-mustafa&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altuntas-mustafa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
