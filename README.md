@@ -9,6 +9,10 @@
   <a href="https://www.instagram.com/mustaafaa_altuntas/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  <a href="mailto:mustafa_altuntas35@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  
  </div>
  <div id="badges" align="center">
  <img src="https://komarev.com/ghpvc/?username=altuntas-mustafa&style=flat-square&color=blue" alt=""/>
