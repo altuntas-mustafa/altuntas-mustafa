@@ -26,7 +26,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 - 🌱 - 🔭 I’m currently Full Stack Developer and Searching a job
 
-- :zap: Now I am working on the project with my team and you can follow repositery "School Manangment System".
+- :zap: Now I am working on the project with my team and you can follow Repository  "School-Management-System".
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mustafa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-altuntas/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafa_altuntas35@hotmail.com)
 - 
