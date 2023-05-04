@@ -29,7 +29,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: Now I am working on the project with my team and you can follow Repository  "School-Management-System".
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mustafa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-altuntas/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafa_altuntas35@hotmail.com)
-- 
 <div id="aboutme" align="center">
   
 ### :hammer_and_wrench: Languages and Tools 
