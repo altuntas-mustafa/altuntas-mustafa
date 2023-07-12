@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/mustafa-altuntas/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:mustafa_altuntas35@hotmail.com">
+  <a href="mailto:mustafaaltuntas3538@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   
