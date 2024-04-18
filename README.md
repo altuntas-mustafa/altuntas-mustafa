@@ -24,9 +24,8 @@
  
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
-- 🌱 - 🔭 I’m currently Full Stack Developer and Searching a job
-
-- :zap: Now I am working on the project with my team and you can follow Repository  "School-Management-System".
+- 🌱 - 🔭 I’m currently working as a Full Stack Developer 
+- :zap: Now I am working on the project  you can follow "https://www.ozjewels.nl/".
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mustafa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-altuntas/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafaaltuntas3538@gmail.com)
 <div id="aboutme" align="center">
