@@ -23,7 +23,7 @@
 </div>
  
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 - 🔭 I’m currently working as a Full Stack Developer 
 - :zap: Now I am working on the project  you can follow "https://www.ozjewels.nl/".
 
